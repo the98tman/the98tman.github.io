@@ -1,0 +1,54 @@
+body {
+    background-color: grey;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.header {
+    top: 25px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    text-align: center;
+}
+
+.footer {
+    color: #666666;
+    font-size: 22px;
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+    border-top: solid 1px #000000 ;
+    padding: 5px;
+    background-color: white;
+    margin: 5px;
+    margin-top: 15px;
+
+}
+.tableau {
+    position: relative;
+    padding: 15px;
+    border: solid 1px #000000;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    background-color: white;
+    left: 5px;
+    right: 5px;
+    top: 5px;
+    bottom: 5px;
+}
+
+.captions {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    color: #000000;
+    left: 5px;
+    right: 5px;
+    top: 5px;
+    bottom: 5px;
+    position: relative;
+    text-align: center;
+    padding-bottom: 10px;
+}
